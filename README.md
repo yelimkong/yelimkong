@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm YelimKong 🤗
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -9,7 +9,7 @@
 
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> 
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=black"> 
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"> 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> 
 </div>
 <!--
