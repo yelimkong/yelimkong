@@ -1,17 +1,33 @@
-### Hi 👋, I'm YelimKong 🤗
-<div align=center><h1>📚 STACKS</h1></div>
+### Hi , I'm YelimKong 🕊
+------
+<div align=left><h3>🛠️ Tech Stacks</h3></div>
 
-<div align=center> 
+
+
+<div align=left> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <br>
 
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> 
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> 
+  
 </div>
+    <div style="text-align: left;"> 
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h3> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=yelimkong&bg_color=60,f5f5f5,f9c8c8&title_color=523d3d&text_color=523d3d"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelimkong&layout=compact&bg_color=60,f5f5f5,f9c8c8&title_color=523d3d&text_color=523d3d"
+           /> </div> 
+    </div>
+    
+
+
 <!--
 **yelimkong/yelimkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
