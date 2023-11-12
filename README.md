@@ -25,8 +25,9 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelimkong&layout=compact&bg_color=60,f5f5f5,f9c8c8&title_color=523d3d&text_color=523d3d"
            /> </div> 
     </div>
-    
-
+  <div align="right">     
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyelimkong%2Fyelimkong&count_bg=%23B8B8B8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  
+  </div>
 
 <!--
 **yelimkong/yelimkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
